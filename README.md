@@ -1,4 +1,4 @@
-# ⚡ AI DevOps Platform.   vhj
+# ⚡ AI DevOps Platform.   vh
 
 > **Enterprise-Grade Autonomous DevOps & SRE Platform** powered by LLM, real-time monitoring, and self-healing infrastructure.
 
