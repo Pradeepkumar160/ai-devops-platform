@@ -1,4 +1,4 @@
-# ⚡ AI DevOps Platform.   vh
+# ⚡ AI DevOps Platform.   v
 
 > **Enterprise-Grade Autonomous DevOps & SRE Platform** powered by LLM, real-time monitoring, and self-healing infrastructure.
 
